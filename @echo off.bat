@@ -25,8 +25,8 @@ REM Add all changes
 git add .
 
 REM Set both author and committer date to make the commit look natural
-set GIT_AUTHOR_DATE="2024-10-12T15:00:00"
-set GIT_COMMITTER_DATE="2024-10-12T15:00:00"
+set GIT_AUTHOR_DATE="2024-10-11T15:00:00"
+set GIT_COMMITTER_DATE="2024-10-11T15:00:00"
 
 REM Commit with a realistic message and backdated date
 git commit -m "Updated API integration and caching strategy"
